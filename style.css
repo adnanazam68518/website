@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    background-image: url(https://img.freepik.com/free-vector/blue-data-technology-background-vector-with-binary-code_53876-110871.jpg);
+    width: 300px;
+    margin-left: 250px;
+    border-radius: 10%;
+    color: goldenrod;
+}
+
+body {
+    background-image: url(/hacker.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+   background-color: rgba(52, 52, 176, 0.732);
+}
+.tr3{
+    text-align: center;
+}
